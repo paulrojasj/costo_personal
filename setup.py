@@ -12,6 +12,7 @@ setup(
         "pandas>=2.0.0",
         "numpy>=1.24.0",
         "python-dateutil>=2.8.2",
+        "openpyxl>=3.0.0",
     ],
     extras_require={
         "dev": [
