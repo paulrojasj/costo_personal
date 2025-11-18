@@ -1,0 +1,10 @@
+# Dependencias del proyecto
+# Python 3.8+
+
+# No se requieren dependencias externas para la funcionalidad básica
+# El proyecto usa solo la librería estándar de Python
+
+# Dependencias opcionales para desarrollo y testing
+pytest>=7.0.0  # Para testing
+black>=22.0.0  # Para formateo de código
+flake8>=4.0.0  # Para linting
